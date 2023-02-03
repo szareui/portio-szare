@@ -4,26 +4,31 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
 
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
+tab1Name: Experiences
+tab2Name: Certification
+tab1Target: experience
+tab2Target: Certification
 
 education:
   - content: >
+      
       #### Master in Arts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      **IBM Company**
+
+
+      You can see [this link](https://www.interaction-design.org/courses/conducting-usability-testing?r=szareesmatabadi) to see my certificate
+    time: July 2022
   - content: >
-      #### Master in Arts
+      #### Enterprise Design Thinking Practitioner
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      IMB
+    time: July 2022
   - content: >
       #### Master in Arts
 
