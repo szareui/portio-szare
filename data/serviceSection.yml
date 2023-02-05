@@ -14,32 +14,26 @@ service:
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### UI Designe 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Product Designe 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Information Architect
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### UX Designe
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
