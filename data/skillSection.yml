@@ -2,16 +2,24 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
+  ## How can I help you?
 
   My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
-
+  I design products that are consistent and 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: Research
+    percent: 40
+  - title: Information Architecture
     percent: 85
+  - title: Wireframing
+    percent: 80
+  - title: Prototyping
+    percent: 95
+  - title: Visual Communication
+    percent: 70
+  - title: Usability Test
+    percent: 80
+  - title: Design Tools (Figma,XD)
+    percent: 95

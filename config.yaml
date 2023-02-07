@@ -23,9 +23,9 @@ menu:
     - name: Skills
       url: "#skills"
       weight: 6
-    - name: Blog
-      url: "#blog"
-      weight: 7
+    # - name: Blog
+    #   url: "#blog"
+    #   weight: 7
     - name: Contact
       url: "#contact"
       weight: 8
