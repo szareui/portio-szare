@@ -8,5 +8,19 @@ testimonial:
   - name: >
       [Kasra Nategh](https://www.linkedin.com/in/kasra-nategh/)
     comment: Sedighe is one of the most talented people I have ever worked with. When I had Sedighe on the team, I was always sure that the tasks were done correctly. She learns very fast and her mind challenges everything, she always tries to find the right answer. I hope one day we will work together again on a product.
-    time: Febr 5, 2022
+        <br/> <br/>
+        Febr 5, 2023
+    time: Product Designer
+    #star: 5
+
+  - name: >
+      [Pardis haghighi](https://www.linkedin.com/in/pardis-haghighi-232763210)
+    comment: Sedigheh is one of the most talented people I know.
+      She always tries to find the best and most correct answer to her questions.
+      She is calm and reliable and you can safely trust her with a task and be sure that she will do it in the best possible way.
+      <br/> <br/> <br/>
+      Febr 9, 2023
+      
+
+    time: UX/UI Designer
     #star: 5

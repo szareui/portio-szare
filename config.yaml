@@ -73,3 +73,8 @@ params:
     - icon: fa-twitter-square
       url: https://twitter.com/
       weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
