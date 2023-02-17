@@ -1,7 +1,7 @@
 ---
-title: Case Study One
+title: ECG Project
 date: 2020-07-13T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-1.png
+thumbnail: images/portfolio/ECG.png
 service: Development, UX Design
 client: Edward Furlong
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
