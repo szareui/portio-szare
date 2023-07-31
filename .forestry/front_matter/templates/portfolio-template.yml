@@ -16,10 +16,10 @@ fields:
   label: type
 - type: text
   name: service
-  label: Position
+  label: service
 - type: text
   name: client
-  label: Company
+  label: client
 - type: textarea
   name: shortDescription
   label: shortDescription

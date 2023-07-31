@@ -2,8 +2,8 @@
 title: Music player
 date: 2020-08-12T18:07:16.000+06:00
 thumbnail: images/portfolio/Music player.png
-service: UX Design
-client: Johnathon Doe
+service: UI Design
+client: None
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
