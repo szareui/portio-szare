@@ -1,6 +1,6 @@
 ---
 title: Minimal Theme of Digify
-date: 2022-04-19T12:13:40+00:00
+date: 2022-04-2T12:13:40+00:00
 thumbnail: images/portfolio/Fashion-Cover.png
 service: UX Research, UX Design
 client: Digify
