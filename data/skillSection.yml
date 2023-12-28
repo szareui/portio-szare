@@ -4,22 +4,24 @@ topTitle: My Skills
 content: >
   ## How can I help you?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
-  I design products that are consistent and 
+  I can help you from the first step when you have an idea. 
+  First, I'll understand your goal, market, and user needs to use them to create the prototype.
+   Then we will check and test the prototypes to understand problems and solve them early, this step could be repeated several times. 
+   After all, I'll design the product with details and test it again to make sure there is no problem.       
 image: images/skill/skill.jpg
 
 skill:
   - title: Research
     percent: 40
   - title: Information Architecture
-    percent: 85
+    percent: 60
   - title: Wireframing
     percent: 80
   - title: Prototyping
-    percent: 95
-  - title: Visual Communication
+    percent: 90
+  - title: Visual Design
     percent: 70
   - title: Usability Test
-    percent: 80
+    percent: 50
   - title: Design Tools (Figma,XD)
-    percent: 95
+    percent: 90

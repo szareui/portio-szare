@@ -31,16 +31,19 @@ menu:
       weight: 8
   sitemap:
     - name: About me
-      url: about
+      url: "#about"
       weight: 1
-    - name: Frequently Ask Question
-      url: "#"
+    # - name: Frequently Ask Question
+    - name: service
+      url: "#service"
       weight: 2
-    - name: Privacy & Policy
-      url: "#"
+    # - name: Privacy & Policy
+    - name: Work
+      url: "#portfolio"
       weight: 3
-    - name: Latest Article
-      url: "#"
+    # - name: Latest Article
+    - name: Resume
+      url: "#resume"
       weight: 4
 params:
   blogPageURL: blog
@@ -51,9 +54,9 @@ params:
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo.png
   address:
-    address: 23 Khan Niketon, Grand Street, NYK.
+    address: Iran, Tehran
     email: zaresedighe77@gmail.com
-    openingHours: Open from 10am to 6pm (close at 5pm Sundays)
+    openingHours: Available from 9am to 3pm 
     #phone: +(448) 833 5272 332
   map:
     APIkey: YOUR GOOGLE MAP API

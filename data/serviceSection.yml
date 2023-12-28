@@ -4,31 +4,26 @@ topTitle: Working Area
 title: >
   ## Creative Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+
 service:
   - content: >
-      #### UI Designe
+      #### User Interface Design
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Designing the visual and layout of the product interface including elements like navigation, menus, buttons, typography, colors, etc. Goal is to promote usability and brand consistency.
     image: images/service/ui-ux.svg
   - content: >
-      #### UX Designe 
+      #### User Research 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Understanding user behaviors, needs, motivations and pain points through methods like user interviews, surveys, user testing. The key is to gain empathy for target users to guide design decisions.
     image: images/service/web.svg
   - content: >
-      #### Product Designe 
+      #### Prototyping 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Creating interactive prototypes to demonstrate how the product looks and functions. Allows gathering feedback before committing time and resources to full development. 
     image: images/service/creative.svg
   - content: >
-      #### Information Architect
+      #### Usability Testing
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Evaluating designs with representative users to uncover usability issues and identify areas of improvement. This provides insights not possible through expert analysis alone.
     image: images/service/branding.svg
 
