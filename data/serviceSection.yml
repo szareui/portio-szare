@@ -15,15 +15,15 @@ service:
       #### User Research 
 
       Understanding user behaviors, needs, motivations and pain points through methods like user interviews, surveys, user testing. The key is to gain empathy for target users to guide design decisions.
-    image: images/service/web.svg
+    image: images/service/creative.svg
   - content: >
       #### Prototyping 
 
       Creating interactive prototypes to demonstrate how the product looks and functions. Allows gathering feedback before committing time and resources to full development. 
-    image: images/service/creative.svg
+    image: images/service/branding.svg
   - content: >
       #### Usability Testing
 
       Evaluating designs with representative users to uncover usability issues and identify areas of improvement. This provides insights not possible through expert analysis alone.
-    image: images/service/branding.svg
+    image: images/service/web.svg
 
