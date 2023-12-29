@@ -64,18 +64,18 @@ params:
     longitude: "90.3746808"
     pinImage: images/pin.png
   social:
-    - icon: fa-facebook-official
-      url: https://www.facebook.com/
+    - icon: fa-dribbble
+      url: https://dribbble.com/S_Zare/
       weight: 1
     - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+      url: https://www.linkedin.com/in/sedighezare/
       weight: 2
-    - icon: fa-pinterest-square
-      url: https://www.pinterest.com/
+    - icon: fa-instagram
+      url: https://www.instagram.com/s.zare.ui/
       weight: 3
-    - icon: fa-twitter-square
-      url: https://twitter.com/
-      weight: 4
+    # - icon: fa-twitter-square
+    #   url: https://twitter.com/
+    #   weight: 4
 
 markup:
   goldmark:
