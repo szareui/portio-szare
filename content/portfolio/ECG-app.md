@@ -11,4 +11,4 @@ Challenge: Patients often struggle to visit clinics for routine ECGs. We aimed t
 Solution: I worked on connecting the wearable ECG device to an Android app and enabling real-time data transmission and display. The app successfully receives and visualizes the heart signal data sent wirelessly from the patient device, helping doctors monitor their patients' health remotely.
 
 ---
-This progect was my first experience of  designing a real app. Befor that I've had been just a developer.
+This project was my first experience of  designing a real app. Befor that I've had been just a developer.
