@@ -2,7 +2,7 @@
 enable: true
 topTitle: My Resume
 title: >
-  ## My Expertises
+  ## My Expertise
 
   Here is a short review of my work with companies. Also, my certifications can be seen here.
 
@@ -12,14 +12,37 @@ tab1Target: experience
 tab2Target: certificate
 
 education: #tab1 
+
+  - content: >
+      Lumina · Freelance 
+
+      #### UI/UX Designer
+
+      Lumina is a startup platform enhancing transparency and engagement in the Optimism ecosystem. 
+      It enables community members to share insights, validate projects, and streamline fund allocation. 
+      Designed to promote trust, Lumina helps users navigate the ecosystem and support deserving projects effectively.
+  
+
+      At Lumina, I contributed to several key projects, including:
+
+      - Lumina Landing & WebApp: Led the end-to-end design process involving conceptualization, ideation, wireframes, UI kit, UI design, prototyping, and testing to create seamless user experiences across the platform.
+    time: Jun 2024 - Present 
   - content: >
       Digify · Full-time
       
-      #### UX/UI Designer
+      #### UI/UX Designer
+
+      Digify is an intuitive platform for website creation and management.
+       It allows users of all technical levels to build business websites,
+        manage orders, and retain customers through its dashboard.
+
+      At Digify, I contributed to several key projects, including:
+
+      - Design System : Maintenance, Create new components
 
       - Rodium Theme (Responsive): UI Design, prototype
       
-      - Dashboard: Wireframe, UI Design, prototype, Test
+      - Dashboard: Maintenance, testing, identifying problems, redesigning
 
       - AppStore: Wireframe, UI Design, prototype
 
@@ -29,7 +52,7 @@ education: #tab1
 
       - Fashion Theme (Responsive): User research, CA, Ideations, Wireframe, UI kit, UI Design, prototype
 
-    time: Nov 2021 - Present · 1 yr 4 mos
+    time: Nov 2021 - Mar 2023 · 1 yr 5 mos
   - content: >
       Bonusco · Full-time
 
