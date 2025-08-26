@@ -14,6 +14,20 @@ tab2Target: certificate
 education: #tab1 
 
   - content: >
+      WITS · Freelance 
+
+      #### Product Designer
+
+      WITS is a Telegram mini app designed as a competition platform where Web3 projects can engage users by showcasing product features through interactive contests.
+      The platform helps teams increase awareness and user familiarity with their products in a gamified environment.
+
+      At WITS, I served as the Product Designer, leading the end-to-end design process.
+      This included wireframing, creating the UI kit, building high-fidelity prototypes, and ensuring a seamless user experience.
+      A key focus of my work was integrating gamification elements to make the product engaging, while carefully balancing scope to deliver a lightweight MVP.
+      This approach allowed the team to launch quickly and gather valuable user feedback for future iterations.
+      In addition to the mini app, I also designed a dedicated landing page to present the game and attract participants.
+    time: Sep 2024 - Nov 2024 
+  - content: >
       Lumina · Freelance 
 
       #### UI/UX Designer
@@ -26,7 +40,7 @@ education: #tab1
       At Lumina, I contributed to several key projects, including:
 
       - Lumina Landing & WebApp: Led the end-to-end design process involving conceptualization, ideation, wireframes, UI kit, UI design, prototyping, and testing to create seamless user experiences across the platform.
-    time: Jun 2024 - Present 
+    time: Jun 2024 - Sep 2024 
   - content: >
       Digify · Full-time
       
